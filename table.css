@@ -1,0 +1,40 @@
+caption {
+    caption-side: top;
+    align-self: center;
+}
+
+table {
+    border: solid 1px black;
+    border-collapse: collapse;
+    margin: auto;
+}
+
+th, td {
+    border: solid 1px black;
+    padding: 10px;
+}
+
+.green {
+    color: green;
+}
+
+.red{
+    color: red;
+}
+
+tfoot {
+    border-top: solid 2px rgba(128, 128, 128, 0.503);
+    text-align: center;
+}
+
+thead {
+    border-bottom: solid 2px rgba(128, 128, 128, 0.507);
+}
+
+#grey {
+    border-top: solid 2px rgba(128, 128, 128, 0.503);;
+}
+
+.greythin {
+    border-right: solid 1px grey;
+}
